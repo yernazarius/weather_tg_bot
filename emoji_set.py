@@ -1,0 +1,8 @@
+thunderstorm = u'\U0001F4A8'
+drizzle = u'\U0001F4A7'
+rain = u'\U00002614'
+snowflake = u'\U00002744'
+atmosphere = u'\U0001F301'
+clearSky = u'\U00002600'
+fewClouds = u'\U000026C5'
+clouds = u'\U00002601'
